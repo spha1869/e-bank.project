@@ -1,0 +1,23 @@
+{
+  "name":"E-BANK",
+  "version":"1.0.0",
+  "description":"web app",
+  "main":"jquery.js",
+  "script":{
+      "test":"echo\"Error:no test specified\"&& exit 1"
+  },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/spha1869/e-bank.project.git",
+        "branch": "spha1869",
+        "SHA": "",
+  "keywords":[],
+  "author":"sphamandla slingo mthombeni<sphamthombeni2@gmail.com> (http//sphamthombeni.com)",
+  "license":{"MIT",
+  "url": "https://github.com/LICENSE"} ,
+  "dependencies":{
+    "body-parser":"^1.17.1",
+    "express":"^4.15.2"
+  },
+
+}
